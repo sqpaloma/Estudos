@@ -1,6 +1,16 @@
-table, th, td {
-  border:1px solid black;
+table,
+th,
+td {
+  border: 1px solid black;
 }
-table{
-	width:300px;
+table {
+  width: 300px;
+}
+.btn-voltar {
+  background-color: blue;
+  border-radius: 10px;
+  color: aliceblue;
+  border-style: none;
+  padding: 10px 20px;
+  cursor: pointer;
 }

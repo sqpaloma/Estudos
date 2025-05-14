@@ -9,8 +9,27 @@ table {
 .btn-voltar {
   background-color: blue;
   border-radius: 10px;
-  color: aliceblue;
+  color: rgb(255, 244, 240);
   border-style: none;
   padding: 10px 20px;
   cursor: pointer;
+}
+
+header {
+  text-align: center;
+  color: rgb(231, 205, 255);
+}
+
+h1 {
+  text-align: center;
+}
+
+.logo {
+  height: 100px;
+  width: auto;
+}
+p {
+  text-align: justify;
+  margin-left: 80px;
+  margin-right: 80px;
 }
